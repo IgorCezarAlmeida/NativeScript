@@ -1,0 +1,1 @@
+{"version":3,"file":"tns_modules/inspector_modules.js","mappings":";;;;;;;;;AAAA,2C","sources":["webpack://nativescript-exemplo/external commonjs \"~/package.json\""],"sourcesContent":["module.exports = require(\"~/package.json\");"],"names":[],"sourceRoot":""}

@@ -1,0 +1,54 @@
+Page {
+  background-color: #f4f7fb;
+  color: #172033;
+}
+
+.action-bar {
+  background-color: #155e75;
+  color: white;
+}
+
+.content {
+  padding: 28;
+}
+
+.title {
+  color: #155e75;
+  font-size: 28;
+  font-weight: bold;
+  margin-bottom: 8;
+}
+
+.subtitle {
+  color: #526175;
+  font-size: 16;
+  margin-bottom: 24;
+}
+
+.input {
+  background-color: white;
+  border-color: #cbd5e1;
+  border-width: 1;
+  border-radius: 6;
+  padding: 12;
+  margin-bottom: 12;
+}
+
+.button {
+  background-color: #f97316;
+  color: white;
+  font-size: 16;
+  margin-bottom: 24;
+}
+
+.message {
+  color: #172033;
+  font-size: 18;
+  margin-bottom: 12;
+}
+
+.counter {
+  color: #155e75;
+  font-size: 16;
+  font-weight: bold;
+}

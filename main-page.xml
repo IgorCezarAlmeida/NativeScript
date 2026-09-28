@@ -1,0 +1,16 @@
+<Page loaded="onPageLoaded" class="page">
+  <ActionBar title="Meu primeiro app" class="action-bar" />
+
+  <ScrollView>
+    <StackLayout class="content">
+      <Label text="Exemplo NativeScript" class="title" />
+      <Label text="Uma tela nativa usando XML, JavaScript e CSS." class="subtitle" textWrap="true" />
+
+      <TextField id="nomeInput" hint="Digite seu nome" class="input" />
+      <Button text="Mostrar saudacao" tap="onShowGreeting" class="button" />
+
+      <Label id="mensagemLabel" text="A mensagem aparecera aqui." class="message" textWrap="true" />
+      <Label id="contadorLabel" text="Cliques: 0" class="counter" />
+    </StackLayout>
+  </ScrollView>
+</Page>
